@@ -18,8 +18,3 @@ A console-based Library Management System implemented in C++ using object-orient
 - Object-Oriented Programming
 - Linked Lists for waiting list and book/user storage
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
